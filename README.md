@@ -1,4 +1,4 @@
-# C9KNX Links for VILT US EDT 2018-SEP-4 to 7
+# C9KNX Links for Guadalajara, Mexico 2018-SEP-10 to 12
 
 ## [Configuring the Cisco Nexus 9K in NX-OS Mode Introduction - Nicholas Riegel (Google Slides)](https://docs.google.com/presentation/d/1Fw85hcaRHzQHnS9GgBzFckAKEgnfVAfjAH5bV6yvJMk/edit?usp=sharing)
 
