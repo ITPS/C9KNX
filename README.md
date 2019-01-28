@@ -1,4 +1,4 @@
-# C9KNX Links for Alpharetta, GA 2018-DEC-18 to 20
+# C9KNX Links for Telus, Scarburogh, Ontario, Canada 2019-JAN-28 to 29
 
 ## [Configuring the Cisco Nexus 9K in NX-OS Mode Introduction (C9KNX) for TELUS - Nicholas Riegel (Google Slides)](https://docs.google.com/presentation/d/1KTYoAuLygyVfQ3dHTvbA99EOABcYTlA-Povhbbs1XpA/edit?usp=sharing)
 
