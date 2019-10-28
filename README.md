@@ -1,4 +1,4 @@
-# C9KNX Links for Burlington, MA - Oracle 2019-SEP-9 to 11
+# C9KNX Links for Kansas City, MO USMC - Oracle 2019-OCT-28 to 30
 
 ## [Configuring the Cisco Nexus 9K in NX-OS Mode Introduction (C9KNX) - Nicholas Riegel (Google Slides)](https://docs.google.com/presentation/d/1KTYoAuLygyVfQ3dHTvbA99EOABcYTlA-Povhbbs1XpA/edit?usp=sharing)
 
